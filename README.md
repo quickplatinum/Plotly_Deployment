@@ -22,13 +22,15 @@ This new assignment consists of four technical analysis deliverables.
 - Google Chrome 
 - Comman Prompt
 
-## Conclusion
+## Results
+
+### See below screenshot of the dashbaord
 
 The wesbite was created with a bar chart, bubble chart and gauge all interactive and dyanmic from the drop down menu which selects a specific patient number and shows the relvant demogrpahic information for the specific patient and all the graphs for them. When the dashboard is first opened in a browser, ID 940’s data is displayed in the dashboard.
 
 ### Customization option chosen
 1. Add an image to the jumbotron. (added a blue DNA picture)
 2. Add background color or a variety of compatible colors to the webpage. (Changed the color of the bar graph)
-Use a custom font with contrast for the colors.
-Add more information about the project as a paragraph on the page.
-Add information about what each graph visualizes, either under or next to each graph.
+3. Use a custom font with contrast for the colors.
+4. Add more information about the project as a paragraph on the page. 
+5. Add information about what each graph visualizes, either under or next to each graph.
