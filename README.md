@@ -26,6 +26,8 @@ This new assignment consists of four technical analysis deliverables.
 
 ### See below screenshot of the dashbaord
 
+![Wesbite Design](https://user-images.githubusercontent.com/88692025/142371567-69abb753-b651-41b3-964b-19c4b128d87c.PNG)
+
 The wesbite was created with a bar chart, bubble chart and gauge all interactive and dyanmic from the drop down menu which selects a specific patient number and shows the relvant demogrpahic information for the specific patient and all the graphs for them. When the dashboard is first opened in a browser, ID 940’s data is displayed in the dashboard.
 
 ### Customization option chosen
